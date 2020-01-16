@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyHome</string>
+
+    <string name="action_settings">Настройки</string>
+    <string name="title_activity_sshsettings">Настройки SSH</string>
+    <string name="title_activity_smssettings">Настройки SMS</string>
+</resources>
